@@ -1,0 +1,16 @@
+name: myflask
+summary: myflask
+maintainer: Omnivector Solutions <info@omnivector.solutions>
+description: |
+  myflask
+tags:
+  - flask
+  - webapp
+subordinate: false
+series:
+  - bionic
+resources:
+  myflask:
+    type: file
+    filename: myflask.snap
+    description: Myflask snap

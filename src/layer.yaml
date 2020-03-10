@@ -1,0 +1,6 @@
+includes: ["layer:basic", "layer:snap"]
+
+options:
+  snap:
+    myflask:
+      dangerous: true
